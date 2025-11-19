@@ -1,1 +1,1 @@
--> repo root/assets/script.js
+repo root/assets/script.js
