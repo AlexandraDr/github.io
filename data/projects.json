@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Project A",
+    "description": "Short one-line blurb about Project A.",
+    "repo": "https://github.com/AlexandraDr/project-a",
+    "demo": "https://alexandradr.github.io/project-a-demo",
+    "image": "https://via.placeholder.com/800x400.png?text=Project+A",
+    "tech": ["React", "Node.js"],
+    "tags": ["web", "frontend"],
+    "highlights": ["Feature 1", "Feature 2"],
+    "status": "production"
+  }
+]
